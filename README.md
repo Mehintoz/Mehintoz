@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://github.com/Mehintoz/Mehintoz/blob/main/heart.gif" 
+    height = "300"
+    />
+</div>
+
+
 <h1 align="center">Hello, I am Nathaniel and Welcome to my Profile 🤯</h1>  
 
 
