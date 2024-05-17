@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello, I am Nathaniel and Welcome to my Profile 🤯
+
 
 <!--
 **Mehintoz/Mehintoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
