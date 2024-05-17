@@ -1,4 +1,4 @@
-## Hello, I am Nathaniel and Welcome to my Profile 🤯
+<h1 align="center">Hello, I am Nathaniel and Welcome to my Profile 🤯</h1>  
 
 
 <!--
